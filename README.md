@@ -1,0 +1,2 @@
+# lalima.quotegen
+Quote generator.
